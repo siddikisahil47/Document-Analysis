@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-google-genai
+langchain_groq
+google-search-results
+python-dotenv
+wikipedia
+duckduckgo-search
+pypdf
+langchain-chroma
+streamlit_option_menu
+serpapi
+langchain-community
